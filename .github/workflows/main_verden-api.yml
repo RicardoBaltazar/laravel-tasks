@@ -63,4 +63,4 @@ jobs:
           app-name: 'verden-api'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07555E0EE99C413AA8D8B68CD555ECFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_200549D7D3154B8B9ABBE00A8463C777 }}
